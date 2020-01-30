@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d83d139-75b7-4a95-bfcb-04e8d999f2fb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/bit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sura.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/surascreenshot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tsogatec.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +33,7 @@
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="services&#9;null&#9;null&#10;popup&#9;null&#9;null&#10;media&#9;null&#9;null&#10;modal&#9;null&#9;null&#10;intro&#9;null&#9;null&#10;.logo a&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -81,11 +76,18 @@
       <workItem from="1546839170953" duration="603000" />
       <workItem from="1546842406644" duration="598000" />
       <workItem from="1561490600961" duration="797000" />
-      <workItem from="1577392272105" duration="2690000" />
+      <workItem from="1577392272105" duration="3417000" />
+      <workItem from="1577689122877" duration="53000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1577689167306">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1577689167306" />
   </component>
 </project>
