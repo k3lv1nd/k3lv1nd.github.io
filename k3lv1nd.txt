@@ -8,6 +8,7 @@ I have been doing this for the last 3 years and i intend to do it for the rest o
 <p>I develop desktop applications too. I use Java Swing & JavaFX for this. I am also a big fan of the blockchain technology with aspirations to run a full node pretty soon. </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 
 <p>I`m also proficient in other complementary technologies such as Database administration, Git, Linux server administration, docker, webpack, Vercel, Gradle, ant, jUnit, Appium, Jest & phpunit. </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p>Chess and coffee are my addictions of which i don't bother to fight simply because there is nothing i can do about it. </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 
 <span id="a">kelvin@pantheras</span>:<span id="b">~</span><span id="c">$</span> cat work.txt
 <p> The following are some of my works or projects  i have been involved in <!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
