@@ -25,7 +25,7 @@ I have been doing this for the last 3 years and i intend to do it for the rest o
 
 <span id="a">kelvin@pantheras</span>:<span id="b">~</span><span id="c">$</span> cat contact.txt
 <p> My contact email address is  <a href="mailto:kalvind95@gmail.com"> Kalvind95@gmail.com</a></p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-<p> Call me via  <a href="phone:0704936670">+254704936670</a></p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<p> Call me via  <a href="tel:0704936670">+254704936670</a></p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 <p> My github profile is <a href="https://github.com/k3lv1nd">github.com/k3lv1nd</a></p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 <p> Lets connect on linkedin <a href="www.linkedin.com/in/kelvin-david-kimani-91695682">linkedin.com/in/kelvin-david-kimani-91695682</a></p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 <p> Follow me on twitter  <a href="https://twitter.com/Kelvin_davidd">twitter.com/Kelvin_davidd</a></p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
