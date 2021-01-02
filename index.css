@@ -1,5 +1,6 @@
 body {
-	background-color: #000
+	background-color: #000;
+	overflow-y: scroll;
 }
 
 #console {
@@ -30,7 +31,7 @@ a {
 }
 
 #k {
-    	animation: change 1s;
+    	animation: change 3s;
 }
 
 #op{

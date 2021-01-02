@@ -1,0 +1,34 @@
+<h2>Hello & Welcome to my Terminal. I am <span id="k">Kelvin David</span>. <!-- sjkfhskjf --></h2>
+<span id="a">kelvin@pantheras</span>:<span id="b">~</span><span id="c">$</span> cd ~/profile && ls
+<span id="a">kelvin@pantheras</span>:<span id="b">~</span><span id="c">$</span> about_me.txt work.txt contact.txt
+<span id="a">kelvin@pantheras</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->about_me.txt<br/><br/>
+I design and build computer software specializing in Web Applications, Mobile Apps, <!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>Desktop Applications and API design & implementation.</p>
+
+I have been doing this for the last 3 years and i intend to do it for the rest of my life<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p> I like backend engineering and my preferred languages include Java[Java SE, Spring Boot], PHP[Laravel & Symfony], Kotlin & Express. I am still learning Python:) When it comes to frontend, i ride with React, VueJs & JQuery. To be honest, i suck at css! I also create android mobile apps using Android[Java & Kotlin] & Flutter </p>
+<p>I develop desktop applications too. I use Java Swing & JavaFX for this. I am also a big fan of the blockchain technology with aspirations to run a full node pretty soon. </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+
+<p>I`m also proficient in other complementary technologies such as Database administration, Git, Linux server administration, docker, webpack, Vercel, Gradle, ant, jUnit, Appium, Jest & phpunit. </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+
+<span id="a">kelvin@pantheras</span>:<span id="b">~</span><span id="c">$</span> cat work.txt
+<p> The following are some of my works or projects  i have been involved in <!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+
+<a  target="_blank" href="https://suraimages.com"> Sura Images</a></p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<a href="https://wiocc.net"> Wiocc</a></p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<a href="https://play.google.com/store/apps/details?id=com.digitalmold.tsogatec"> Spaza App</a></p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<a href="<a href="https://mywish.co.ke">My wish online store[web]</a></p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<a href="<a href="https://play.google.com/store/apps/details?id=com.digitalmold.tsogatec">My wish online store[Mobile app]</a></p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<a href="https://ezzerecharge.com/"> EZZELOAD</a></p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<a href="https://africafairtradeconvention.com/"> Africa Fair Trade</a></p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<a href="https://play.google.com/store/apps/details?id=com.digitalMold.syp">Sauti ya Pwani Radio app</a></p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<a href="http://registration.afca.coffee/"> AFCA</a></p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+
+<span id="a">kelvin@pantheras</span>:<span id="b">~</span><span id="c">$</span> cat contact.txt
+<p> My contact email address is  <a href="mailto:kalvind95@gmail.com"> Kalvind95@gmail.com</a></p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<p> Call me via  <a href="phone:0704936670">+254704936670</a></p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<p> My github profile is <a href="https://github.com/k3lv1nd">github.com/k3lv1nd</a></p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<p> Lets connect on linkedin <a href="www.linkedin.com/in/kelvin-david-kimani-91695682">linkedin.com/in/kelvin-david-kimani-91695682</a></p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<p> Follow me on twitter  <a href="https://twitter.com/Kelvin_davidd">twitter.com/Kelvin_davidd</a></p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+
+<p>Cheers!</p>
+
+<span id="a">kelvin@pantheras</span>:<span id="b">~</span><span id="c">$</span>
