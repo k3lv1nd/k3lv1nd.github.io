@@ -2,10 +2,10 @@
 <span id="a">kelvin@pantheras</span>:<span id="b">~</span><span id="c">$</span> cd ~/profile && ls
 <span id="a">kelvin@pantheras</span>:<span id="b">~</span><span id="c">$</span> about_me.txt work.txt contact.txt
 <span id="a">kelvin@pantheras</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->about_me.txt<br/><br/>
-I design and build software specializing in Web Applications, Mobile Apps, <!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>Desktop Applications and API design & implementation.</p>
+I design and build software specializing in Mobile Apps,Web Applications and API design & implementation.</p>
 
-I have been doing this for the last 3 years and i intend to do it for the rest of my life<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p> I like backend engineering and some of the backend languages/Frameworks that i am proficient in include Java[Java SE, Spring Boot], PHP[Laravel & Symfony], Kotlin & Next.js[for SSR apps]. I am still learning Python:) When it comes to frontend development, i ride with React JavaScript Library,JQuery & Vanilla JavaScript for simple applications.</p>
- I am a certified Google Associate Android Developer [[View my credentials <a  target="_blank" href="https://www.credential.net/4c25f62e-0678-4903-a1d4-22aab7743904?key=90e82eb2448e8d4060e315c40dc158722cf4c0212bed2cb47e7b800608487e9c"> HERE</a><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf --> ]] </p>
+I have been doing this for the last 3 years and i intend to do it for the rest of my life<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p> Some of the languages/Frameworks that i am proficient in are Android, Java[Java SE, Spring Boot], PHP[Laravel & Symfony], Kotlin & Next.js[for SSR apps]. I am still learning Python:) When it comes to frontend development, i ride with React JavaScript Library,JQuery & Vanilla JavaScript for simple applications.</p>
+I am a certified Google Associate Android Developer [[View my credentials <a  target="_blank" href="https://www.credential.net/4c25f62e-0678-4903-a1d4-22aab7743904?key=90e82eb2448e8d4060e315c40dc158722cf4c0212bed2cb47e7b800608487e9c"> HERE</a><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf --> ]] </p>
 
 <p>I develop desktop applications too using Java Swing & JavaFX. I am also a big fan of the blockchain technology with aspirations to run a full node pretty soon. </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 
